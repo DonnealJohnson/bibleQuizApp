@@ -18,3 +18,6 @@ An interactive quiz application built using HTML, CSS, and JavaScript. This proj
 - Answer the quiz questions by selecting the options.
 - View your score and detailed results after completing the quiz.
 - Click the Restart button to try again.
+
+# Demo
+click link to see live demo: https://donnealjohnson.github.io/bibleQuizApp/
